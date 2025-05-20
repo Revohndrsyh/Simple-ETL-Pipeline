@@ -31,3 +31,29 @@ Untuk menginstal semua dependency yang dibutuhkan, jalankan perintah berikut:
 
 ```bash
 pip install -r requirements.txt
+```
+
+### Menjalankan berkas
+```bash
+python main.py
+```
+
+### Menjalankan unit test
+```bash
+python -m unittest discover tests
+```
+
+### Menjalankan test coverage
+```bash
+coverage run -m unittest discover tests
+```
+
+### Melihat hasil report
+```bash
+coverage report -m
+```
+
+### Link Google sheets
+```bash
+https://docs.google.com/spreadsheets/d/1Vdmb8X-QFsxJ-nGl1LtY6IDy_m6p6F8cmfUX4ynmB4k/edit?gid=0#gid=0
+```
