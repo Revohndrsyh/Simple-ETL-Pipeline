@@ -1,5 +1,4 @@
 # Membangun ETL Pipeline Sederhana
-## Submission Belajar Fundamental Pemrosesan Data (Dicoding)
 
 Proyek ini merupakan implementasi dari dasar-dasar pemrosesan data menggunakan Python. Fokus utamanya adalah cara mengambil, mengolah, dan menguji data dari berbagai sumber agar siap digunakan untuk keperluan praktis, seperti analisis data atau otomasi sederhana.
 
